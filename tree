@@ -1,0 +1,12 @@
+rajendrah.github.io/
+│
+├── index.html
+├── about.html
+├── education
+├── projects.html
+├── research
+├── leadership
+├── assets/
+│    ├── css/
+│    └── images/
+└── _config.yml
